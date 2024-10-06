@@ -21,5 +21,5 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tungdaoxuản/github-first-action
+   git clone https://github.com/tungdaoxuan123/github-first-action
    cd github-first-action
