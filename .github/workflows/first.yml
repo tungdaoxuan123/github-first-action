@@ -27,6 +27,6 @@ jobs:
 
     - name: Run tests and check coverage
       run: |
-        coverage run -m pytest
+        coverage run -m unittest discover
         coverage report
         coverage report --fail-under=80  # Fail if coverage is less than 80%
