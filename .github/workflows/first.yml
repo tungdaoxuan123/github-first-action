@@ -1,0 +1,10 @@
+name: First Workflow 
+on:
+    push:
+        branch: ["master"]
+jobs:
+    building:
+        runs-on: ubuntu-latest
+        steps:
+            - run:
+                echo "Hello workld"
